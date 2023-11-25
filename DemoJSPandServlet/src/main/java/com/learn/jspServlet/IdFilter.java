@@ -16,7 +16,7 @@ import java.io.PrintWriter;
 /**
  * Servlet Filter implementation class IdFilter
  */
-@WebFilter("/DemoJSTL")
+//@WebFilter("/DemoJSTL")
 public class IdFilter extends HttpFilter implements Filter {
 
 	/**
